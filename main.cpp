@@ -3,7 +3,7 @@
 #include"generate.h"
 int main(int argc, char *argv[])
 {
-    generateEquations();
+    generateExercise();
     printEquation();
     // QGuiApplication app(argc, argv);
 
