@@ -1,0 +1,15 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                    ],
+                    "filePath": "D:/QTProject/constructionOfSoftware/Main.qml"
+                }
+            ],
+            "moduleId": "constructionOfSoftware(appconstructionOfSoftware)"
+        }
+    ]
+}

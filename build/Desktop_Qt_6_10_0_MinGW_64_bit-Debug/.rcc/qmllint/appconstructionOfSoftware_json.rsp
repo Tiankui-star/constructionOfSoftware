@@ -1,0 +1,12 @@
+--bare
+-I
+D:/QTProject/constructionOfSoftware/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug
+-I
+D:/QT/6.10.0/mingw_64/qml
+--resource
+D:/QTProject/constructionOfSoftware/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/.qt/rcc/qmake_constructionOfSoftware.qrc
+--resource
+D:/QTProject/constructionOfSoftware/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/.qt/rcc/appconstructionOfSoftware_raw_qml_0.qrc
+D:/QTProject/constructionOfSoftware/Main.qml
+--json
+D:/QTProject/constructionOfSoftware/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/appconstructionOfSoftware_qmllint.json

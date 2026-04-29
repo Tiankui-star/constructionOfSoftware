@@ -1,0 +1,6 @@
+module constructionOfSoftware
+typeinfo appconstructionOfSoftware.qmltypes
+prefer :/qt/qml/constructionOfSoftware/
+Main 254.0 Main.qml
+depends QtQuick
+
