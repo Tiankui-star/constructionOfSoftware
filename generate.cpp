@@ -3,6 +3,7 @@
 #include<vector>
 #include<string>
 #include<random>
+#include<iomanip>
 using std::vector;
 using std::cout;
 char Op[2];
@@ -57,10 +58,15 @@ void printEquation(){
     int cnt=0;
     for(auto equ:equations){
         cnt++;
+        string equation=std::to_string(equ[0]);
+        equation+=Op[equ[1]];
+        equation+=std::to_string(equ[2]);
+        equation+='=';
 
-        cout<<equ[0]<<' '<<Op[equ[1]]<<' '<<equ[2]<<' '<<'='<<' '<<equ[3];
-        cout<<'\t';
-        if(cnt%3==0)
+        std::cout << std::left << std::setw(10) << equation;
+        //cout<<equ[0]<<' '<<Op[equ[1]]<<' '<<equ[2]<<' '<<'='<<' '<<equ[3];
+
+        if(cnt%5==0)
             cout<<std::endl;
     }
 
