@@ -6,7 +6,7 @@
 int main(int argc, char *argv[])
 {
     Exercise test;
-    test.generateSubexercise();
+    test.generateBinaryexercise();
     test.formatDisplay();
     // QGuiApplication app(argc, argv);
 
