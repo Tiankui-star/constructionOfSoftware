@@ -876,6 +876,18 @@
 	"HEADERS" : 
 	[
 		[
+			"D:/QTProject/constructionOfSoftware/binaryequals.h",
+			"MU",
+			"EWIEGA46WW/moc_binaryequals.cpp",
+			null
+		],
+		[
+			"D:/QTProject/constructionOfSoftware/exercise.h",
+			"MU",
+			"EWIEGA46WW/moc_exercise.cpp",
+			null
+		],
+		[
 			"D:/QTProject/constructionOfSoftware/generate.h",
 			"MU",
 			"EWIEGA46WW/moc_generate.cpp",
@@ -974,6 +986,8 @@
 	"SETTINGS_FILE" : "D:/QTProject/constructionOfSoftware/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/appconstructionOfSoftware_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[ "D:/QTProject/constructionOfSoftware/binaryequals.cpp", "MU", null ],
+		[ "D:/QTProject/constructionOfSoftware/exercise.cpp", "MU", null ],
 		[ "D:/QTProject/constructionOfSoftware/generate.cpp", "MU", null ],
 		[ "D:/QTProject/constructionOfSoftware/main.cpp", "MU", null ]
 	],

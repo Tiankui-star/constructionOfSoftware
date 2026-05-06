@@ -18,6 +18,8 @@ qt_add_qml_module(appconstructionOfSoftware
         Main.qml
         SOURCES generate.h
         SOURCES generate.cpp
+        SOURCES binaryequals.h binaryequals.cpp
+        SOURCES exercise.h exercise.cpp
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

@@ -72,7 +72,11 @@ void printEquation(){
 
 }
 void printResult(int index){
-    cout<<equations[index][3];
+    for(int i=0;i<equationNum;i++){
+        cout<<equations[i][3]<<'\t';
+        if((i+1)%5==0) cout<<std::endl;
+    }
+    //cout<<equations[index][3];
 }
 void generateExercise(){
     init();

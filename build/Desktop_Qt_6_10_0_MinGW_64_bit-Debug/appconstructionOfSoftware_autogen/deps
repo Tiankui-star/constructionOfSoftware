@@ -583,12 +583,16 @@ appconstructionOfSoftware_autogen/timestamp: \
 	D:/QT/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows.cmake \
 	D:/QT/Tools/CMake_64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake \
 	D:/QTProject/constructionOfSoftware/CMakeLists.txt \
+	D:/QTProject/constructionOfSoftware/binaryequals.cpp \
+	D:/QTProject/constructionOfSoftware/binaryequals.h \
 	D:/QTProject/constructionOfSoftware/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/.qt/qml_imports/appconstructionOfSoftware_conf.cmake \
 	D:/QTProject/constructionOfSoftware/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
 	D:/QTProject/constructionOfSoftware/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/.qtc/package-manager/maintenance_tool_provider.cmake \
 	D:/QTProject/constructionOfSoftware/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
 	D:/QTProject/constructionOfSoftware/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake \
 	D:/QTProject/constructionOfSoftware/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake \
+	D:/QTProject/constructionOfSoftware/exercise.cpp \
+	D:/QTProject/constructionOfSoftware/exercise.h \
 	D:/QTProject/constructionOfSoftware/generate.cpp \
 	D:/QTProject/constructionOfSoftware/generate.h \
 	D:/QTProject/constructionOfSoftware/main.cpp \

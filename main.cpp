@@ -1,10 +1,13 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 #include"generate.h"
+#include"exercise.h"
+
 int main(int argc, char *argv[])
 {
-    generateExercise();
-    printEquation();
+    Exercise test;
+    test.generateSubexercise();
+    test.formatDisplay();
     // QGuiApplication app(argc, argv);
 
     // QQmlApplicationEngine engine;
