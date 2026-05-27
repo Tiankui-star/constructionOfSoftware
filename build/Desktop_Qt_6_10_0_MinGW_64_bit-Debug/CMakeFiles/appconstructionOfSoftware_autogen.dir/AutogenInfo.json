@@ -876,6 +876,24 @@
 	"HEADERS" : 
 	[
 		[
+			"D:/QTProject/constructionOfSoftware/ExerciseFileTester.h",
+			"MU",
+			"EWIEGA46WW/moc_ExerciseFileTester.cpp",
+			null
+		],
+		[
+			"D:/QTProject/constructionOfSoftware/OperationBase.h",
+			"MU",
+			"EWIEGA46WW/moc_OperationBase.cpp",
+			null
+		],
+		[
+			"D:/QTProject/constructionOfSoftware/addoperation.h",
+			"MU",
+			"EWIEGA46WW/moc_addoperation.cpp",
+			null
+		],
+		[
 			"D:/QTProject/constructionOfSoftware/binaryequals.h",
 			"MU",
 			"EWIEGA46WW/moc_binaryequals.cpp",
@@ -888,9 +906,33 @@
 			null
 		],
 		[
+			"D:/QTProject/constructionOfSoftware/exercisesheet.h",
+			"MU",
+			"EWIEGA46WW/moc_exercisesheet.cpp",
+			null
+		],
+		[
 			"D:/QTProject/constructionOfSoftware/generate.h",
 			"MU",
 			"EWIEGA46WW/moc_generate.cpp",
+			null
+		],
+		[
+			"D:/QTProject/constructionOfSoftware/judgement.h",
+			"MU",
+			"EWIEGA46WW/moc_judgement.cpp",
+			null
+		],
+		[
+			"D:/QTProject/constructionOfSoftware/practice.h",
+			"MU",
+			"EWIEGA46WW/moc_practice.cpp",
+			null
+		],
+		[
+			"D:/QTProject/constructionOfSoftware/suboperation.h",
+			"MU",
+			"EWIEGA46WW/moc_suboperation.cpp",
 			null
 		]
 	],
@@ -986,10 +1028,21 @@
 	"SETTINGS_FILE" : "D:/QTProject/constructionOfSoftware/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/appconstructionOfSoftware_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"D:/QTProject/constructionOfSoftware/ExerciseFileTest.cpp",
+			"MU",
+			null
+		],
+		[ "D:/QTProject/constructionOfSoftware/OperationBase.cpp", "MU", null ],
+		[ "D:/QTProject/constructionOfSoftware/addoperation.cpp", "MU", null ],
 		[ "D:/QTProject/constructionOfSoftware/binaryequals.cpp", "MU", null ],
 		[ "D:/QTProject/constructionOfSoftware/exercise.cpp", "MU", null ],
+		[ "D:/QTProject/constructionOfSoftware/exercisesheet.cpp", "MU", null ],
 		[ "D:/QTProject/constructionOfSoftware/generate.cpp", "MU", null ],
-		[ "D:/QTProject/constructionOfSoftware/main.cpp", "MU", null ]
+		[ "D:/QTProject/constructionOfSoftware/judgement.cpp", "MU", null ],
+		[ "D:/QTProject/constructionOfSoftware/main.cpp", "MU", null ],
+		[ "D:/QTProject/constructionOfSoftware/practice.cpp", "MU", null ],
+		[ "D:/QTProject/constructionOfSoftware/suboperation.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],

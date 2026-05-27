@@ -2,12 +2,26 @@
 #include <QQmlApplicationEngine>
 #include"generate.h"
 #include"exercise.h"
+#include"ExerciseFileTester.h"
+#include"exercisesheet.h"
+#include"practice.h"
+#include"judgement.h"
+
 
 int main(int argc, char *argv[])
 {
-    Exercise test;
-    test.generateBinaryexercise();
-    test.formatDisplay();
+    ExerciseSheet test;
+    test.generateBinaryBase();
+    //std::cout<<1<<std::endl;
+    test.generateSheet();
+    // std::cout<<1<<std::endl;
+    test.formatDisplay2(5);
+    // Judgement test;
+    // test.judge();
+    // ExerciseFileSter test;
+    // test.testReadCSVAddtionExercise();
+    // ExerciseSheet test;
+    // test.show();
     // QGuiApplication app(argc, argv);
 
     // QQmlApplicationEngine engine;

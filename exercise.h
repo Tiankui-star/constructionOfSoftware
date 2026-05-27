@@ -6,16 +6,18 @@
 using std::vector;
 class Exercise
 {
-private:
-    static const int equation_nums=50;
-    static const int column_nums=5;
-    vector<BinaryEquals>equations;
-    bool contains(BinaryEquals&anop,int len);
 public:
-    void generateBinaryexercise();
-    void generateAddexercise();
-    void generateSubexercise();
-    void formatDisplay();
+    vector<BinaryEquals*>equations;
+    bool contains(BinaryEquals*anop);
+    BinaryEquals* generateOperation();
+public:
+    void generateBinaryexercise(int operationcount);
+
+    void generateAddExercise(int operationcount);
+    void generateSubExercise(int operationcount);
+    void formatDisplay1(int colcums);
+    void formatDisplay2(int colcums);
+    void formatDisplay3(int colcums);
 };
 
 #endif // EXERCISE_H

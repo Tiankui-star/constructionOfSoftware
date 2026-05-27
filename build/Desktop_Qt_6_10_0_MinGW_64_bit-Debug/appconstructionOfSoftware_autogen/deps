@@ -583,6 +583,12 @@ appconstructionOfSoftware_autogen/timestamp: \
 	D:/QT/Tools/CMake_64/share/cmake-3.30/Modules/Platform/Windows.cmake \
 	D:/QT/Tools/CMake_64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake \
 	D:/QTProject/constructionOfSoftware/CMakeLists.txt \
+	D:/QTProject/constructionOfSoftware/ExerciseFileTest.cpp \
+	D:/QTProject/constructionOfSoftware/ExerciseFileTester.h \
+	D:/QTProject/constructionOfSoftware/OperationBase.cpp \
+	D:/QTProject/constructionOfSoftware/OperationBase.h \
+	D:/QTProject/constructionOfSoftware/addoperation.cpp \
+	D:/QTProject/constructionOfSoftware/addoperation.h \
 	D:/QTProject/constructionOfSoftware/binaryequals.cpp \
 	D:/QTProject/constructionOfSoftware/binaryequals.h \
 	D:/QTProject/constructionOfSoftware/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/.qt/qml_imports/appconstructionOfSoftware_conf.cmake \
@@ -593,7 +599,15 @@ appconstructionOfSoftware_autogen/timestamp: \
 	D:/QTProject/constructionOfSoftware/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake \
 	D:/QTProject/constructionOfSoftware/exercise.cpp \
 	D:/QTProject/constructionOfSoftware/exercise.h \
+	D:/QTProject/constructionOfSoftware/exercisesheet.cpp \
+	D:/QTProject/constructionOfSoftware/exercisesheet.h \
 	D:/QTProject/constructionOfSoftware/generate.cpp \
 	D:/QTProject/constructionOfSoftware/generate.h \
+	D:/QTProject/constructionOfSoftware/judgement.cpp \
+	D:/QTProject/constructionOfSoftware/judgement.h \
 	D:/QTProject/constructionOfSoftware/main.cpp \
+	D:/QTProject/constructionOfSoftware/practice.cpp \
+	D:/QTProject/constructionOfSoftware/practice.h \
+	D:/QTProject/constructionOfSoftware/suboperation.cpp \
+	D:/QTProject/constructionOfSoftware/suboperation.h \
 	D:/QT/Tools/CMake_64/bin/cmake.exe
